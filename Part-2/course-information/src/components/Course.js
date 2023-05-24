@@ -34,4 +34,5 @@ const Content = ({ parts }) => {
     )
 }
 
+
 export default Course
